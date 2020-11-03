@@ -1,0 +1,10 @@
+div { background-color: lawngreen;
+ margin: 0px auto;
+ overflow: hidden;
+ font-style:italic;
+ }
+time{z-index:100;
+ background-color:lawngreen;
+ margin: 0px auto;
+ overflow: hidden;
+ color:darkblue;}
